@@ -12,8 +12,8 @@ namespace BasicSendReceiveQuickStart
 
         static void Main(string[] args)
         {
-            var serviceBusConnectionString = "Endpoint=sb://demo2service.servicebus.windows.net/;SharedAccessKeyName=dmpolicy;SharedAccessKey=tEIKRuRZU0FbSNHFfMvofcBBpfopXZZ1gBQ433mRfHY=";
-            var queueName = "demoqueue2";
+            var serviceBusConnectionString = "{Your queue connection string}";
+            var queueName = "{Your queue name}";
 
             for (var i = 0; i < args.Length; i++)
             {

@@ -8,8 +8,8 @@ namespace Demo3_AzureEventHub
 {
     public class Program
     {
-        private const string connectionString = "Endpoint=sb://demo3hubs.servicebus.windows.net/;SharedAccessKeyName=MyPolicy;SharedAccessKey=Q4JBCXECKZn6c/mtrWoAnEV/Ei2O+n9s+6OIlxudcS8=";
-        private const string eventHubName = "myeventhub";
+        private const string connectionString = "{Your event hub connection string}";
+        private const string eventHubName = "{Your event hub name}";
 
         static void Main(string[] args)
         {

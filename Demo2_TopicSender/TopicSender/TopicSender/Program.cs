@@ -11,8 +11,8 @@ namespace TopicSender
         static ITopicClient topicClient;
         static void Main(string[] args)
         {
-            string sbConnectionString = "Endpoint=sb://demo2service.servicebus.windows.net/;SharedAccessKeyName=MyTopicPolicy;SharedAccessKey=l5gb2mINQYGFj0qrZ9AuW/MawSZ+AzpMZMZV6/ZhhqI=";
-            string sbTopic = "mytopic";
+            string sbConnectionString = "{Your service bus connection string}";
+            string sbTopic = "{Your topic name}";
 
             string messageBody = string.Empty;
             try

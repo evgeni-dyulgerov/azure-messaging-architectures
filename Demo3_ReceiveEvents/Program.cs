@@ -10,10 +10,10 @@ namespace Demo3_ReceiveEvents
 {
     public class Program
     {
-        private const string connectionString = "Endpoint=sb://demo3hubs.servicebus.windows.net/;SharedAccessKeyName=MyPolicy;SharedAccessKey=Q4JBCXECKZn6c/mtrWoAnEV/Ei2O+n9s+6OIlxudcS8=";
-        private const string eventHubName = "myeventhub";
-        private const string blobStorageConnectionString = "DefaultEndpointsProtocol=https;AccountName=demoblob3;AccountKey=FBN2BNYroEiIGSJPbwvPuikhUMmgdwzJm6UpsZW5hxRtoMFZyPMtqsJriPGuW4i4/uvClwVQD8sk+AStDVALLQ==;EndpointSuffix=core.windows.net";
-        private const string blobContainerName = "eventhubcontainer";
+        private const string connectionString = "{Your event hub connection string}";
+        private const string eventHubName = "{Your event hub name}";
+        private const string blobStorageConnectionString = "{Your blob storage connection string}";
+        private const string blobContainerName = "{Your blob container name}";
 
         static void Main(string[] args)
         {
