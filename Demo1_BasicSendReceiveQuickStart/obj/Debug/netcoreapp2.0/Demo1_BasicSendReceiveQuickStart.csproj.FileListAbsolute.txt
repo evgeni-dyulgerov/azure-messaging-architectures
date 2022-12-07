@@ -1,0 +1,2 @@
+C:\Users\Evgeni.Dyulgerov\Desktop\Azure Messaging Architectures\Azure Messaging Architectures repos\Demo1 - BasicSendReceiveQuickStart\BasicSendReceiveQuickStart\obj\Debug\netcoreapp2.0\Demo1_BasicSendReceiveQuickStart.csproj.AssemblyReference.cache
+C:\Users\Evgeni.Dyulgerov\Desktop\Azure Messaging Architectures\Azure Messaging Architectures repos\Demo1 - BasicSendReceiveQuickStart\BasicSendReceiveQuickStart\obj\Debug\netcoreapp2.0\Demo1_BasicSendReceiveQuickStart.GeneratedMSBuildEditorConfig.editorconfig

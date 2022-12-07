@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = BasicSendReceiveQuickStart
+build_property.ProjectDir = C:\Users\Evgeni.Dyulgerov\Desktop\Azure Event\azure-service-bus\samples\DotNet\GettingStarted\BasicSendReceiveQuickStart\BasicSendReceiveQuickStart\
