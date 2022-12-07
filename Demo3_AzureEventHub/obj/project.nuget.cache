@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JMzNrRB0WKvWLv/YxoJ4uiWVZ0hkpoYzzcFIKxqZ5oXuRJidicGUx8JPhCd+eWXTwY6zoULLLalXEBTfAOLu+g==",
+  "dgSpecHash": "gBa5npg3whANR/OL09VTQPcDUKgfP+yYa02lA5YWHzec/U1rmlIjsWxjupdbJzIebH0jqyaqUWlU6YV8aV2CTw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Evgeni.Dyulgerov\\Desktop\\Azure Messaging Architectures\\Azure Messaging Architectures repos\\azure-messaging-architectures\\Demo3_AzureEventHub\\Demo3_AzureEventHub.csproj",
+  "projectFilePath": "C:\\azure-messaging-architectures\\Demo3_AzureEventHub\\Demo3_AzureEventHub.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Evgeni.Dyulgerov\\.nuget\\packages\\azure.core\\1.26.0\\azure.core.1.26.0.nupkg.sha512",
     "C:\\Users\\Evgeni.Dyulgerov\\.nuget\\packages\\azure.core.amqp\\1.2.0\\azure.core.amqp.1.2.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Evgeni.Dyulgerov\\Desktop\\Azure Messaging Architectures\\Azure Messaging Architectures repos\\azure-messaging-architectures\\Demo1_BasicSendReceiveQuickStart\\Demo1_SendReceiveQuickStart.csproj": {}
+    "C:\\azure-messaging-architectures\\Demo1_BasicSendReceiveQuickStart\\Demo1_SendReceiveQuickStart.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Evgeni.Dyulgerov\\Desktop\\Azure Messaging Architectures\\Azure Messaging Architectures repos\\azure-messaging-architectures\\Demo1_BasicSendReceiveQuickStart\\Demo1_SendReceiveQuickStart.csproj": {
+    "C:\\azure-messaging-architectures\\Demo1_BasicSendReceiveQuickStart\\Demo1_SendReceiveQuickStart.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Evgeni.Dyulgerov\\Desktop\\Azure Messaging Architectures\\Azure Messaging Architectures repos\\azure-messaging-architectures\\Demo1_BasicSendReceiveQuickStart\\Demo1_SendReceiveQuickStart.csproj",
+        "projectUniqueName": "C:\\azure-messaging-architectures\\Demo1_BasicSendReceiveQuickStart\\Demo1_SendReceiveQuickStart.csproj",
         "projectName": "Demo1_SendReceiveQuickStart",
-        "projectPath": "C:\\Users\\Evgeni.Dyulgerov\\Desktop\\Azure Messaging Architectures\\Azure Messaging Architectures repos\\azure-messaging-architectures\\Demo1_BasicSendReceiveQuickStart\\Demo1_SendReceiveQuickStart.csproj",
+        "projectPath": "C:\\azure-messaging-architectures\\Demo1_BasicSendReceiveQuickStart\\Demo1_SendReceiveQuickStart.csproj",
         "packagesPath": "C:\\Users\\Evgeni.Dyulgerov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Evgeni.Dyulgerov\\Desktop\\Azure Messaging Architectures\\Azure Messaging Architectures repos\\azure-messaging-architectures\\Demo1_BasicSendReceiveQuickStart\\obj\\",
+        "outputPath": "C:\\azure-messaging-architectures\\Demo1_BasicSendReceiveQuickStart\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

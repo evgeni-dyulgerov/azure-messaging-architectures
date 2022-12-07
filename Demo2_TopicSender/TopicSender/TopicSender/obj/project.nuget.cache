@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9oUtAMuZDGEf7NkEOA0AZMRjkcFUy6hJynNc3LVp2R97yCFtt59XJ0ht71UDchfnYFGnjKHsQRHlmOhbmfxlWQ==",
+  "dgSpecHash": "U+F3Z5J+Z9kFM0nLHn90DJxwVlGiTXhYJOEFoATlyteeqbGCQ61aNUuSv+kWe847Q9uRSUAfa3k77UHI5IAu2Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Evgeni.Dyulgerov\\Desktop\\Azure Messaging Architectures\\Azure Messaging Architectures repos\\azure-messaging-architectures\\Demo2_TopicSender\\TopicSender\\TopicSender\\Demo2_TopicSender.csproj",
+  "projectFilePath": "C:\\azure-messaging-architectures\\Demo2_TopicSender\\TopicSender\\TopicSender\\Demo2_TopicSender.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Evgeni.Dyulgerov\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Evgeni.Dyulgerov\\.nuget\\packages\\azure.core.amqp\\1.2.0\\azure.core.amqp.1.2.0.nupkg.sha512",

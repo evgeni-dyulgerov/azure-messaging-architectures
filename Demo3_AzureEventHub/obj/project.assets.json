@@ -6411,11 +6411,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Evgeni.Dyulgerov\\Desktop\\Azure Messaging Architectures\\Azure Messaging Architectures repos\\azure-messaging-architectures\\Demo3_AzureEventHub\\Demo3_AzureEventHub.csproj",
+      "projectUniqueName": "C:\\azure-messaging-architectures\\Demo3_AzureEventHub\\Demo3_AzureEventHub.csproj",
       "projectName": "Demo3_AzureEventHub",
-      "projectPath": "C:\\Users\\Evgeni.Dyulgerov\\Desktop\\Azure Messaging Architectures\\Azure Messaging Architectures repos\\azure-messaging-architectures\\Demo3_AzureEventHub\\Demo3_AzureEventHub.csproj",
+      "projectPath": "C:\\azure-messaging-architectures\\Demo3_AzureEventHub\\Demo3_AzureEventHub.csproj",
       "packagesPath": "C:\\Users\\Evgeni.Dyulgerov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Evgeni.Dyulgerov\\Desktop\\Azure Messaging Architectures\\Azure Messaging Architectures repos\\azure-messaging-architectures\\Demo3_AzureEventHub\\obj\\",
+      "outputPath": "C:\\azure-messaging-architectures\\Demo3_AzureEventHub\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

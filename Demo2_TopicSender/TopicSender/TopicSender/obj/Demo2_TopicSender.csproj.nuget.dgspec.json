@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Evgeni.Dyulgerov\\Desktop\\Azure Messaging Architectures\\Azure Messaging Architectures repos\\azure-messaging-architectures\\Demo2_TopicSender\\TopicSender\\TopicSender\\Demo2_TopicSender.csproj": {}
+    "C:\\azure-messaging-architectures\\Demo2_TopicSender\\TopicSender\\TopicSender\\Demo2_TopicSender.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Evgeni.Dyulgerov\\Desktop\\Azure Messaging Architectures\\Azure Messaging Architectures repos\\azure-messaging-architectures\\Demo2_TopicSender\\TopicSender\\TopicSender\\Demo2_TopicSender.csproj": {
+    "C:\\azure-messaging-architectures\\Demo2_TopicSender\\TopicSender\\TopicSender\\Demo2_TopicSender.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Evgeni.Dyulgerov\\Desktop\\Azure Messaging Architectures\\Azure Messaging Architectures repos\\azure-messaging-architectures\\Demo2_TopicSender\\TopicSender\\TopicSender\\Demo2_TopicSender.csproj",
+        "projectUniqueName": "C:\\azure-messaging-architectures\\Demo2_TopicSender\\TopicSender\\TopicSender\\Demo2_TopicSender.csproj",
         "projectName": "Demo2_TopicSender",
-        "projectPath": "C:\\Users\\Evgeni.Dyulgerov\\Desktop\\Azure Messaging Architectures\\Azure Messaging Architectures repos\\azure-messaging-architectures\\Demo2_TopicSender\\TopicSender\\TopicSender\\Demo2_TopicSender.csproj",
+        "projectPath": "C:\\azure-messaging-architectures\\Demo2_TopicSender\\TopicSender\\TopicSender\\Demo2_TopicSender.csproj",
         "packagesPath": "C:\\Users\\Evgeni.Dyulgerov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Evgeni.Dyulgerov\\Desktop\\Azure Messaging Architectures\\Azure Messaging Architectures repos\\azure-messaging-architectures\\Demo2_TopicSender\\TopicSender\\TopicSender\\obj\\",
+        "outputPath": "C:\\azure-messaging-architectures\\Demo2_TopicSender\\TopicSender\\TopicSender\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

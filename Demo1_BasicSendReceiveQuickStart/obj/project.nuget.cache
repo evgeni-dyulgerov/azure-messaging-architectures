@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4ReSP9/8EwsHK5ZRSZpaudOjWT1cUHpa6CvYzLx1BN4ZiW4I1IJ5leV0oOyR3p/rRnVmQMjbh5eg6Lgi3q0uOQ==",
+  "dgSpecHash": "X7vCFCF8HG6bOraFs2+M9u8Eb9rz8AxsBVFYGwW3Y30Sat2Qn+gjyZqUbfbGFj+XW2RQYPj6HZyTK9SuPJlRFw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Evgeni.Dyulgerov\\Desktop\\Azure Messaging Architectures\\Azure Messaging Architectures repos\\azure-messaging-architectures\\Demo1_BasicSendReceiveQuickStart\\Demo1_SendReceiveQuickStart.csproj",
+  "projectFilePath": "C:\\azure-messaging-architectures\\Demo1_BasicSendReceiveQuickStart\\Demo1_SendReceiveQuickStart.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Evgeni.Dyulgerov\\.nuget\\packages\\microsoft.azure.amqp\\2.1.2\\microsoft.azure.amqp.2.1.2.nupkg.sha512",
     "C:\\Users\\Evgeni.Dyulgerov\\.nuget\\packages\\microsoft.azure.servicebus\\2.0.0\\microsoft.azure.servicebus.2.0.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Evgeni.Dyulgerov\\Desktop\\Azure Messaging Architectures\\Azure Messaging Architectures repos\\azure-messaging-architectures\\Demo3_ReceiveEvents\\Demo3_ReceiveEvents.csproj": {}
+    "C:\\azure-messaging-architectures\\Demo3_ReceiveEvents\\Demo3_ReceiveEvents.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Evgeni.Dyulgerov\\Desktop\\Azure Messaging Architectures\\Azure Messaging Architectures repos\\azure-messaging-architectures\\Demo3_ReceiveEvents\\Demo3_ReceiveEvents.csproj": {
+    "C:\\azure-messaging-architectures\\Demo3_ReceiveEvents\\Demo3_ReceiveEvents.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Evgeni.Dyulgerov\\Desktop\\Azure Messaging Architectures\\Azure Messaging Architectures repos\\azure-messaging-architectures\\Demo3_ReceiveEvents\\Demo3_ReceiveEvents.csproj",
+        "projectUniqueName": "C:\\azure-messaging-architectures\\Demo3_ReceiveEvents\\Demo3_ReceiveEvents.csproj",
         "projectName": "Demo3_ReceiveEvents",
-        "projectPath": "C:\\Users\\Evgeni.Dyulgerov\\Desktop\\Azure Messaging Architectures\\Azure Messaging Architectures repos\\azure-messaging-architectures\\Demo3_ReceiveEvents\\Demo3_ReceiveEvents.csproj",
+        "projectPath": "C:\\azure-messaging-architectures\\Demo3_ReceiveEvents\\Demo3_ReceiveEvents.csproj",
         "packagesPath": "C:\\Users\\Evgeni.Dyulgerov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Evgeni.Dyulgerov\\Desktop\\Azure Messaging Architectures\\Azure Messaging Architectures repos\\azure-messaging-architectures\\Demo3_ReceiveEvents\\obj\\",
+        "outputPath": "C:\\azure-messaging-architectures\\Demo3_ReceiveEvents\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

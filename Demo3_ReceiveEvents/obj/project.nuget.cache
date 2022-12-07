@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fKHokwA4beIl8wr5DbqTmMUwqeTVGbUl7orm4wrSGQ5c1ciFM0nFGJ5RYULEWxvPjdapeIlohq1XFgXk5qmDAQ==",
+  "dgSpecHash": "O99Pii6zvKCnbjn7tg9HEdOTbjJ+RtcRugRZuutjAi9Hhpc2ZuAFWArNWUpWYVhctOsOG39uj+3g7OGeRUgcAQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Evgeni.Dyulgerov\\Desktop\\Azure Messaging Architectures\\Azure Messaging Architectures repos\\azure-messaging-architectures\\Demo3_ReceiveEvents\\Demo3_ReceiveEvents.csproj",
+  "projectFilePath": "C:\\azure-messaging-architectures\\Demo3_ReceiveEvents\\Demo3_ReceiveEvents.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Evgeni.Dyulgerov\\.nuget\\packages\\azure.core\\1.26.0\\azure.core.1.26.0.nupkg.sha512",
     "C:\\Users\\Evgeni.Dyulgerov\\.nuget\\packages\\azure.core.amqp\\1.2.0\\azure.core.amqp.1.2.0.nupkg.sha512",
